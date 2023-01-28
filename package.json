@@ -1,0 +1,19 @@
+{
+  "name": "@m-sardari/package-registery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Sardari/package-registery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-Sardari/package-registery/issues"
+  },
+  "homepage": "https://github.com/M-Sardari/package-registery#readme"
+}
